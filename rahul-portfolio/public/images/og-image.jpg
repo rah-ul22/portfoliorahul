@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#0a0a0b"/>
+  <rect x="0" y="0" width="1200" height="630" fill="url(#grid)"/>
+  <defs>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#27272a" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  <text x="600" y="280" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="700" font-size="72" fill="#e4e4e7">Rahul M</text>
+  <text x="600" y="350" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="400" font-size="28" fill="#a1a1aa">Graphic Designer & 3D Artist</text>
+  <text x="600" y="420" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="400" font-size="18" fill="#71717a">Portfolio — 3D Modeling, Brand Identity, Visual Design</text>
+</svg>
