@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#111113"/>
+  <rect x="0" y="0" width="800" height="600" fill="url(#grid)"/>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#27272a" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  <text x="400" y="260" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="600" font-size="32" fill="#e4e4e7">Typographic Poster Series</text>
+  <text x="400" y="310" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="400" font-size="16" fill="#a1a1aa">Conceptual Project — Add your rendered image</text>
+  <text x="400" y="350" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="400" font-size="14" fill="#71717a">Save as: public/images/graphic-posters.jpg</text>
+</svg>
